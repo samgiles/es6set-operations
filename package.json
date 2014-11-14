@@ -1,0 +1,22 @@
+{
+  "name": "es6set-operations",
+  "version": "1.0.0",
+  "description": "Set operations for ES6 sets",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ES6",
+    "set",
+    "operations"
+  ],
+  "author": "Samuel Giles",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^1.21.4"
+  },
+  "dependencies": {
+    "es6-set": "^0.1.0"
+  }
+}
